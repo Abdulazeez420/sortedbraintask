@@ -25,4 +25,8 @@ This Flutter app demonstrates the use of deep linking, routing, and Firebase Clo
 - Check if the notification is handled correctly in both foreground and background states.
 
 ## Demo Video
-- C:\Users\AbdulAzeez\Documents\GitHub\sortedbraintask\assets\Screenrecording_20240720_132335.mp4
+- 
+
+https://github.com/user-attachments/assets/111f2d26-217d-4da9-a611-4005190aeab1
+
+
