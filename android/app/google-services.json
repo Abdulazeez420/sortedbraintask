@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426114322247",
+    "project_id": "sortb-32d2d",
+    "storage_bucket": "sortb-32d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426114322247:android:9a87f3227b09557439c662",
+        "android_client_info": {
+          "package_name": "com.example.sortedbraintask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXDHn6e0SM0b11TDCMIR0vJ1mWjm5g5tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
